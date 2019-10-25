@@ -1,6 +1,6 @@
                            Read Me Section
 
-*** Created this project for the knowledgeable track job opportunity at Sitel ***
+*** Created this project for the Knowledgebase Track Task job opportunity at Sitel ***
 
 ** Main goal **
 > Analyse provided Data and improve FAQ's section
