@@ -155,7 +155,7 @@ section {
 }
 
 
-.accordion-item:target .accordion-link .ion-md-add {
+.accordion-item:target .accordion-link .ion-md-remove {
     display: block;
 }
 
