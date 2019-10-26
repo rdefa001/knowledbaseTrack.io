@@ -46,8 +46,8 @@
 
 ** Analysing Process ** tab 2
 1st >  selected 1 group (Bookings)
-2st >  Out of the Bookings group, selected 5 top Summary
-3nd >  Observed the most visits/escalation number/Helpful%  method for each given department.
+2nd >  Out of the Bookings group, selected 5 top Summary
+3rd >  Observed the most visits/escalation number/Helpful%  method for each given department.
 ++ Changes to bookings being top department contact the most.
 
 
