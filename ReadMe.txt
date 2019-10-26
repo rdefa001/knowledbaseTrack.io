@@ -45,7 +45,6 @@
 5th Website support => (if better contact/layout/user friendly website may reduce calls to other departments)
 
          ** How to improve above **
-> Hire more agents to "Changes to bookings"
 > Cross train/skill more agents to "Changes to bookings"
 > Busiest department
 > Provided more info on internal blog relating to that department (for other departments to also see).
@@ -75,9 +74,8 @@
 
 
      ** How to improve above **
-> Hire more agents for that department 
 > Cross train/skill more agents to that department
 > Provided more info on internal blog relating to that department (for other departments to also see).
-> User friendly UI for better UE
+> User friendly UI for better UE / Improve website info
 
 ====================================//===================================
