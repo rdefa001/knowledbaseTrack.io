@@ -71,7 +71,7 @@
 (Maybe provide better resolution or alternatives?!)
 
 ** Top summary w/ most HELPFUL % **
-> Chosing to cancel a flight
+> Choosing to cancel a flight
 
 
      ** How to improve above **
