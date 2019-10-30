@@ -48,7 +48,9 @@
 > Cross train/skill more agents to "Changes to bookings"
 > Busiest department
 > Provided more info on internal blog relating to that department (for other departments to also see).
-> User friendly UI for better UE > make it as easy as possible for users
+> User friendly UI for better UE > make it as easy as possible for users to get in touch
+Add diferent methods of contact e.g. WhatsApp, Live chat.
+
 
 
 
@@ -77,5 +79,6 @@
 > Cross train/skill more agents to that department
 > Provided more info on internal blog relating to that department (for other departments to also see).
 > User friendly UI for better UE / Improve website info
+Add diferent methods of contact e.g. WhatsApp, Live chat.
 
 ====================================//===================================
